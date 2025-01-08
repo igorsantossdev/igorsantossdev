@@ -1,7 +1,5 @@
 # Igor Santos
 <ul>
-          <li> beginner in development </li>
-          <li> front end | back end C and Javascript  </li>
           <li> Técnico em Desenvolvimento de Sistemas </li>
           <li> Engenharia de Software - UEPG </li>
           
